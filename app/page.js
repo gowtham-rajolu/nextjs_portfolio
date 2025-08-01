@@ -28,9 +28,8 @@ export default function Home() {
         className="flex flex-row items-center justify-center min-h-screen px-6 gap-x-10 pt-20"
         data-aos="fade-up"
       >
-        {/* Text */}
-        <div>
-          <h1 className="text-6xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 animate-pulse">
+          <div>
+          <h1 className="text-8xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 animate-pulse">
             {data.name}
           </h1>
           <ReactTyped
@@ -41,13 +40,6 @@ export default function Home() {
             className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
           />
         </div>
-
-        {/* Image */}
-        <img
-          src="/photo.jpeg"
-          alt="Profile"
-          className="w-48 h-48 object-cover rounded-full border-4 border-white shadow-xl"
-        />
       </section>
 
       {/* About Section */}
@@ -95,11 +87,6 @@ export default function Home() {
           </div>
         </div>
     </section>
-
-      {/* Footer (optional) */}
-      <footer className="text-center py-6 text-sm bg-gray-900 text-gray-400">
-        © 2025 {data.name} | All rights reserved.
-      </footer>
     </div>
   );
 }
