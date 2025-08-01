@@ -1,0 +1,22 @@
+{
+    "name":"Rajolu Gowtham",
+    "roles":["Frontend Developer","Backend Developer","Full Stack Developer","Penetration Tester", "Ethical Hacker","AI Engineer","and more..."],
+    "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A personal portfolio built with Next.js and Tailwind CSS.",
+      "link": "https://your-portfolio-link.com"
+    },
+    {
+      "title": "Todo App",
+      "description": "A React-based task management app with local storage support.",
+      "link": "https://github.com/username/todo-app"
+    },
+    {
+      "title": "Blog Platform",
+      "description": "A full-stack blog platform using Node.js and MongoDB.",
+      "link": "https://github.com/username/blog-platform"
+    }
+  ],
+  "about":""
+}
