@@ -1,21 +1,26 @@
 {
     "name":"Rajolu Gowtham",
+    "email":"gowthamrajolu@gmail.com",
+    "github":"https://github.com/gowtham-rajolu",
+    "linkedin":"https://www.linkedin.com/in/gowtham-rajolu/",
+    "youtube":"https://www.youtube.com/@gowtham_nani_",
+    "instagram":"https://www.instagram.com/_._gowtham_nani_._/?igsh=bDZ3OW02Nml1M2xn#",
     "roles":["Frontend Developer","Backend Developer","Full Stack Developer","Penetration Tester", "Ethical Hacker","AI Engineer","and more..."],
     "projects": [
     {
-      "title": "Portfolio Website",
-      "description": "A personal portfolio built with Next.js and Tailwind CSS.",
-      "link": "https://your-portfolio-link.com"
+      "title": "Voice-Based Virtual Assistant",
+      "description": "This project aims to develop a voice-based virtual assistant that can assist with various tasks on a computer or smart home system. The assistant responds to voice commands and provides functionalities such as launching applications, managing files, sending emails, providing weather updates, and much more.",
+      "link": "https://github.com/gowtham-rajolu/virtual_assistant"
     },
     {
-      "title": "Todo App",
-      "description": "A React-based task management app with local storage support.",
-      "link": "https://github.com/username/todo-app"
+      "title": "Smart SDLC – AI-Powered Project Management Tool",
+      "description": "A full-stack AI-powered developer assistant that streamlines the entire Software Development Life Cycle (SDLC). Each phase—Requirements, Development, Testing, and Optimization—has its own interface with dedicated tools, enabling developers to speed up workflow and reduce manual effort.",
+      "link": "https://github.com/gowtham-rajolu/ibm"
     },
     {
-      "title": "Blog Platform",
-      "description": "A full-stack blog platform using Node.js and MongoDB.",
-      "link": "https://github.com/username/blog-platform"
+      "title": "Event Aggregator",
+      "description": "Event Aggregator is a full-stack web app that displays college fest events and allows students to register for them. Built with Express.js, HTML, and MySQL (via phpMyAdmin), it offers a simple interface for event discovery and registration. The platform stores all student and event data securely and streamlines coordination for both organizers and participants.",
+      "link": "https://github.com/gowtham-rajolu/event_aggrigator"
     }
   ],
   "about":""
