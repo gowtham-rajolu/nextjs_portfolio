@@ -19,6 +19,7 @@ export default function Home() {
           <li><a href="#hero" className="hover:underline">Home</a></li>
           <li><a href="#about" className="hover:underline">About</a></li>
           <li><a href="#projects" className="hover:underline">Projects</a></li>
+          <li><a href="#contact" className="hover:underline">contact</a></li>
         </ul>
       </nav>
 
