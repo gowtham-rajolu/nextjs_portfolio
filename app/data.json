@@ -29,11 +29,13 @@
     },
     {
       "title":"Chat App Dashboard (Next.js + Socket.IO)",
-      "description":"A real-time chat dashboard built with Next.js and Socket.IO, offering seamless, low-latency communication. Users can join rooms, send and receive messages instantly via WebSockets, and enjoy dynamic updates without reloading the page. The UI is fully responsive, modern, and optimized for smooth user experience. Key features include real-time message rendering, automatic scroll-to-latest, message status updates, and room-based conversation handling. Ideal for collaboration tools, support chat systems, or community messaging apps."
+      "description":"A real-time chat dashboard built with Next.js and Socket.IO, offering seamless, low-latency communication. Users can join rooms, send and receive messages instantly via WebSockets, and enjoy dynamic updates without reloading the page. The UI is fully responsive, modern, and optimized for smooth user experience. Key features include real-time message rendering, automatic scroll-to-latest, message status updates, and room-based conversation handling. Ideal for collaboration tools, support chat systems, or community messaging apps.",
+      "link":"https://github.com/gowtham-rajolu/chat-app"
     },
     {
       "title":"Vision-Controlled Automation System",
-      "description": "A smart automation system that integrates Computer Vision (via OpenCV) with Arduino to detect visual cues and trigger real-world hardware actions. The system uses a webcam to analyze images or video in real-time, such as recognizing hand gestures, faces, or color objects, and sends signals to an Arduino microcontroller to activate components like motors, LEDs, or buzzers. This project bridges AI-driven perception with embedded hardware control, making it ideal for smart home automation, gesture-controlled robots, or AI-based security systems."
+      "description": "A smart automation system that integrates Computer Vision (via OpenCV) with Arduino to detect visual cues and trigger real-world hardware actions. The system uses a webcam to analyze images or video in real-time, such as recognizing hand gestures, faces, or color objects, and sends signals to an Arduino microcontroller to activate components like motors, LEDs, or buzzers. This project bridges AI-driven perception with embedded hardware control, making it ideal for smart home automation, gesture-controlled robots, or AI-based security systems.",
+      "link":"https://github.com/gowtham-rajolu/aurdino"
     },
     {
       "title": "NSK – Job Seekers Platform",
@@ -47,7 +49,8 @@
     },
     {
       "title":"Voice-Controlled Home Automation System",
-      "description":"A smart home automation project that uses voice commands to control electrical appliances like lights, fans, or alarms. The system integrates a Python-based voice recognition script on a PC or laptop, which captures and processes voice input using libraries such as speech_recognition and pyttsx3. Recognized commands are sent to an Arduino board via serial communication, which then triggers corresponding hardware components using relays or digital outputs."
+      "description":"A smart home automation project that uses voice commands to control electrical appliances like lights, fans, or alarms. The system integrates a Python-based voice recognition script on a PC or laptop, which captures and processes voice input using libraries such as speech_recognition and pyttsx3. Recognized commands are sent to an Arduino board via serial communication, which then triggers corresponding hardware components using relays or digital outputs.",
+      "link":"https://github.com/gowtham-rajolu/aurdino"
     }
 
   ],
