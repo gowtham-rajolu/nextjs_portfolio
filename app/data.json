@@ -5,7 +5,7 @@
     "linkedin":"https://www.linkedin.com/in/gowtham-rajolu-242218218/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwSgNoTg%2BSuaNHIECSx8GLA%3D%3D",
     "youtube":"https://www.youtube.com/@gowtham_nani_",
     "instagram":"https://www.instagram.com/_._gowtham_nani_._/?igsh=bDZ3OW02Nml1M2xn#",
-    "roles":["Frontend Developer","Backend Developer","Full Stack Developer","Penetration Tester", "Ethical Hacker","AI Engineer","and more..."],
+    "roles":["Frontend Developer","Backend Developer","Full Stack Developer","Designer", "Ethical Hacker","AI Engineer","and more..."],
     "projects": [
     {
       "title": "Voice-Based Virtual Assistant",
@@ -41,7 +41,8 @@
     },
     {
       "title": "Dynamic Portfolio with JSON & Next.js",
-      "description": "A personal portfolio website developed using Next.js that loads all its dynamic content from a single external JSON file. This architecture enables seamless updates without modifying the codebase, making it ideal for non-technical users or quick customization. It includes sections such as Hero, About, Projects, and Contact—each rendered based on JSON keys and values.\n\nThe site features smooth animations using AOS (Animate on Scroll), a typewriter effect using React Typed, and a responsive layout designed for all devices. \n\nThis portfolio is optimized for performance, SEO-friendly, and deployable via platforms like Vercel . "
+      "description": "A personal portfolio website developed using Next.js that loads all its dynamic content from a single external JSON file. This architecture enables seamless updates without modifying the codebase, making it ideal for non-technical users or quick customization. It includes sections such as Hero, About, Projects, and Contact—each rendered based on JSON keys and values.\n\nThe site features smooth animations using AOS (Animate on Scroll), a typewriter effect using React Typed, and a responsive layout designed for all devices. \n\nThis portfolio is optimized for performance, SEO-friendly, and deployable via platforms like Vercel . ",
+      "link":""
     },
     {
       "title":"Voice-Controlled Home Automation System",
