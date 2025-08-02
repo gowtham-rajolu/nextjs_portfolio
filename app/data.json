@@ -37,12 +37,13 @@
     },
     {
       "title": "NSK – Job Seekers Platform",
-      "description": "NSK is a web-based job seekers platform that helps individuals discover, explore, and register for job opportunities. The platform allows users to create profiles, browse available job listings, and apply for positions with a simple and intuitive interface. Developed using Next.js for the frontend and application logic, MongoDB for managing user data, and phpMyAdmin (MySQL) for job listings , NSK aims to simplify the job search and recruitment process with an efficient and user-friendly experience."
+      "description": "NSK is a web-based job seekers platform that helps individuals discover, explore, and register for job opportunities. The platform allows users to create profiles, browse available job listings, and apply for positions with a simple and intuitive interface. Developed using Next.js for the frontend and application logic, MongoDB for managing user data, and phpMyAdmin (MySQL) for job listings , NSK aims to simplify the job search and recruitment process with an efficient and user-friendly experience.",
+      "link":"https://github.com/gowtham-rajolu/NSK"
     },
     {
       "title": "Dynamic Portfolio with JSON & Next.js",
       "description": "A personal portfolio website developed using Next.js that loads all its dynamic content from a single external JSON file. This architecture enables seamless updates without modifying the codebase, making it ideal for non-technical users or quick customization. It includes sections such as Hero, About, Projects, and Contact—each rendered based on JSON keys and values.\n\nThe site features smooth animations using AOS (Animate on Scroll), a typewriter effect using React Typed, and a responsive layout designed for all devices. \n\nThis portfolio is optimized for performance, SEO-friendly, and deployable via platforms like Vercel . ",
-      "link":""
+      "link":"https://github.com/gowtham-rajolu/nextjs_portfolio"
     },
     {
       "title":"Voice-Controlled Home Automation System",
