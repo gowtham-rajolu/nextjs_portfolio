@@ -2,7 +2,7 @@
     "name":"Rajolu Gowtham",
     "email":"gowthamrajolu@gmail.com",
     "github":"https://github.com/gowtham-rajolu",
-    "linkedin":"https://www.linkedin.com/in/gowtham-rajolu/",
+    "linkedin":"https://www.linkedin.com/in/gowtham-rajolu-242218218/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwSgNoTg%2BSuaNHIECSx8GLA%3D%3D",
     "youtube":"https://www.youtube.com/@gowtham_nani_",
     "instagram":"https://www.instagram.com/_._gowtham_nani_._/?igsh=bDZ3OW02Nml1M2xn#",
     "roles":["Frontend Developer","Backend Developer","Full Stack Developer","Penetration Tester", "Ethical Hacker","AI Engineer","and more..."],
@@ -21,7 +21,33 @@
       "title": "Event Aggregator",
       "description": "Event Aggregator is a full-stack web app that displays college fest events and allows students to register for them. Built with Express.js, HTML, and MySQL (via phpMyAdmin), it offers a simple interface for event discovery and registration. The platform stores all student and event data securely and streamlines coordination for both organizers and participants.",
       "link": "https://github.com/gowtham-rajolu/event_aggrigator"
+    },
+    {
+      "title":"Currency Converter Web App",
+      "description":"A responsive web application that allows users to convert amounts between different currencies using real-time exchange rates. It fetches live data from a public currency exchange API and performs instant conversion based on user-selected currencies and input amount. The app is built using modern frontend technologies and hosted on Netlify at currencyconverterfor4.netlify.app. It showcases skills in API integration, user interface design, and client-side JavaScript development.",
+      "link":"https://currencyconverterfor4.netlify.app/"
+    },
+    {
+      "title":"Chat App Dashboard (Next.js + Socket.IO)",
+      "description":"A real-time chat dashboard built with Next.js and Socket.IO, offering seamless, low-latency communication. Users can join rooms, send and receive messages instantly via WebSockets, and enjoy dynamic updates without reloading the page. The UI is fully responsive, modern, and optimized for smooth user experience. Key features include real-time message rendering, automatic scroll-to-latest, message status updates, and room-based conversation handling. Ideal for collaboration tools, support chat systems, or community messaging apps."
+    },
+    {
+      "title":"Vision-Controlled Automation System",
+      "description": "A smart automation system that integrates Computer Vision (via OpenCV) with Arduino to detect visual cues and trigger real-world hardware actions. The system uses a webcam to analyze images or video in real-time, such as recognizing hand gestures, faces, or color objects, and sends signals to an Arduino microcontroller to activate components like motors, LEDs, or buzzers. This project bridges AI-driven perception with embedded hardware control, making it ideal for smart home automation, gesture-controlled robots, or AI-based security systems."
+    },
+    {
+      "title": "NSK – Job Seekers Platform",
+      "description": "NSK is a web-based job seekers platform that helps individuals discover, explore, and register for job opportunities. The platform allows users to create profiles, browse available job listings, and apply for positions with a simple and intuitive interface. Developed using Next.js for the frontend and application logic, MongoDB for managing user data, and phpMyAdmin (MySQL) for job listings , NSK aims to simplify the job search and recruitment process with an efficient and user-friendly experience."
+    },
+    {
+      "title": "Dynamic Portfolio with JSON & Next.js",
+      "description": "A personal portfolio website developed using Next.js that loads all its dynamic content from a single external JSON file. This architecture enables seamless updates without modifying the codebase, making it ideal for non-technical users or quick customization. It includes sections such as Hero, About, Projects, and Contact—each rendered based on JSON keys and values.\n\nThe site features smooth animations using AOS (Animate on Scroll), a typewriter effect using React Typed, and a responsive layout designed for all devices. \n\nThis portfolio is optimized for performance, SEO-friendly, and deployable via platforms like Vercel . "
+    },
+    {
+      "title":"Voice-Controlled Home Automation System",
+      "description":"A smart home automation project that uses voice commands to control electrical appliances like lights, fans, or alarms. The system integrates a Python-based voice recognition script on a PC or laptop, which captures and processes voice input using libraries such as speech_recognition and pyttsx3. Recognized commands are sent to an Arduino board via serial communication, which then triggers corresponding hardware components using relays or digital outputs."
     }
+
   ],
-  "about":""
+ "about": "Hi, I’m Gowtham Rajolu, a Computer Science student with a passion for building intelligent, user-centric digital solutions. I work with modern web and AI technologies like Next.js, Streamlit, and FastAPI, focusing on automation, responsive design, and seamless user experience. I enjoy combining software development with emerging tools in AI to create smart and scalable applications.\n\nBeyond tech, I’m also a professional photographer, videographer, and editor, skilled in capturing and crafting compelling visual stories. My dual interest in technology and creativity helps me bring a balanced and unique approach to everything I build—whether it's code or content.\n\nI'm continuously learning, exploring new tools, and pushing myself to grow in both the tech and creative fields."
 }
