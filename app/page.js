@@ -16,7 +16,8 @@ export default function Home() {
     <>
       <VantaBackground />
 
-      <div className="text-white scroll-smooth">
+      <div className="text-white scroll-smooth overflow-x-hidden">
+
         {/* Navigation */}
         <nav className="fixed top-0 left-0 w-full bg-black bg-opacity-80 text-white py-4 px-8 shadow-lg z-50">
           <ul className="flex gap-8 justify-center text-lg font-semibold">
