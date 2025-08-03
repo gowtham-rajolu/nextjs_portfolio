@@ -1,18 +1,20 @@
 "use client";
-
 import { useEffect } from "react";
 import { ReactTyped } from "react-typed";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import data from "./data.json";
-
+import VantaBackground from "../components/VantaBackground";
 export default function Home() {
   useEffect(() => {
     AOS.init({ duration: 1000 });
   }, []);
 
   return (
-    <div className="bg-black text-white scroll-smooth">
+    
+    <>
+    <VantaBackground />
+    <div className="text-white scroll-smooth">
       {/* Navigation */}
       <nav className="fixed top-0 left-0 w-full bg-black bg-opacity-80 text-white py-4 px-8 shadow-lg z-50">
         <ul className="flex gap-8 justify-center text-lg font-semibold">
@@ -46,7 +48,7 @@ export default function Home() {
       {/* About Section */}
       <section
         id="about"
-        className="min-h-screen flex items-center justify-center bg-gray-900 text-white px-6"
+        className="min-h-screen flex items-center justify-center text-white px-6"
         data-aos="fade-right"
       >
         <div>
@@ -59,17 +61,18 @@ export default function Home() {
 
       <section
         id="projects"
-        className="min-h-screen flex flex-col items-center justify-center bg-black text-white px-6 py-20"
+        className="min-h-screen flex flex-col items-center justify-center text-white px-6 py-20"
         data-aos="zoom-in"
       >
         <div className="text-center">
-          <h2 className="text-5xl font-bold mb-8">Projects</h2>
+          <h2 className="text-6xl font-bold mb-8">Projects</h2>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {data.projects.map((project, index) => (
               <div
                 key={index}
-                className="bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300"
+                className=" p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300"
+
               >
                 <h3 className="text-2xl font-semibold mb-2 text-yellow-300">
                   {project.title}
@@ -91,7 +94,7 @@ export default function Home() {
     {/* Contact Section */}
     <section
       id="contact"
-      className="min-h-screen flex flex-col items-center justify-center bg-gray-900 text-white px-6 py-20"
+      className="min-h-screen flex flex-col items-center justify-center text-white px-6 py-20"
       data-aos="fade-up"
     >
       <div className="text-center mb-8">
@@ -166,5 +169,6 @@ export default function Home() {
 
 
     </div>
+    </>
   );
 }

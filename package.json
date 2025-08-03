@@ -13,7 +13,11 @@
     "next": "15.4.4",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "react-typed": "^2.0.12"
+    "react-tsparticles": "^2.12.2",
+    "react-typed": "^2.0.12",
+    "three": "^0.134.0",
+    "tsparticles": "^3.9.0",
+    "vanta": "^0.5.24"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
