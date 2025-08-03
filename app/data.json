@@ -10,7 +10,8 @@
     {
       "title": "Voice-Based Virtual Assistant",
       "description": "This project aims to develop a voice-based virtual assistant that can assist with various tasks on a computer or smart home system. The assistant responds to voice commands and provides functionalities such as launching applications, managing files, sending emails, providing weather updates, and much more.",
-      "link": "https://github.com/gowtham-rajolu/virtual_assistant"
+      "link": "https://github.com/gowtham-rajolu/virtual_assistant",
+      "image":"https://videos.openai.com/vg-assets/assets%2Ftask_01k1qd7b2je87v11hw2j8e7vyf%2F1754206164_img_1.webp?st=2025-08-03T06%3A09%3A03Z&se=2025-08-09T07%3A09%3A03Z&sks=b&skt=2025-08-03T06%3A09%3A03Z&ske=2025-08-09T07%3A09%3A03Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=InN0etFX4t%2FC41o7cSAFLupmj2V5IE5HQbfGHfE7oq0%3D&az=oaivgprodscus"
     },
     {
       "title": "Smart SDLC – AI-Powered Project Management Tool",
