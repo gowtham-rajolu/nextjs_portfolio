@@ -132,11 +132,10 @@ export default function Home() {
         </svg>
       </a>
       <a
-  href={"mailto:" + data.gmail}
+  href={`mailto:${data.gmail}`}
   aria-label="Email"
   className="flex items-center justify-center gap-2 text-blue-400 hover:underline text-lg mb-6"
 >
-  {/* Better Mail Icon */}
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
@@ -153,6 +152,7 @@ export default function Home() {
   </svg>
   {data.gmail}
 </a>
+
 
 
       {/* GitHub */}
