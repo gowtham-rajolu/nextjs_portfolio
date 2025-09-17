@@ -7,6 +7,12 @@
     "instagram":"https://www.instagram.com/_._gowtham_nani_._/?igsh=bDZ3OW02Nml1M2xn#",
     "roles":["Frontend Developer","Backend Developer","Full Stack Developer","Designer", "Ethical Hacker","AI Engineer","and more..."],
     "projects": [
+{
+  "title": "URL Shortener Web App",
+  "description": "This project is a simple and efficient URL shortening application that allows users to convert long web links into short, shareable URLs. Built with modern web technologies, the app provides a clean and user-friendly interface where users can input a long link and instantly receive a shortened version. The project is deployed on Vercel for fast performance and easy accessibility.",
+  "link": "https://url-shorter-mu.vercel.app/",
+  "image": "https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg"
+},
     {
       "title": "Voice-Based Virtual Assistant",
       "description": "This project aims to develop a voice-based virtual assistant that can assist with various tasks on a computer or smart home system. The assistant responds to voice commands and provides functionalities such as launching applications, managing files, sending emails, providing weather updates, and much more.",
