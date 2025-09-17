@@ -132,7 +132,7 @@ export default function Home() {
         </svg>
       </a>
       <a
-  href={`mailto:${data.gmail}`}
+  href={`mailto:${data.email}`}
   aria-label="Email"
   className="flex items-center justify-center gap-2 text-blue-400 hover:underline text-lg mb-6"
 >
@@ -150,7 +150,7 @@ export default function Home() {
       d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25H4.5a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0a2.25 2.25 0 00-2.25-2.25H4.5a2.25 2.25 0 00-2.25 2.25m19.5 0l-9.75 6.75L2.25 6.75"
     />
   </svg>
-  {data.gmail}
+  {data.email}
 </a>
 
 
