@@ -131,29 +131,7 @@ export default function Home() {
           <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM0 8h5V24H0V8zm7.5 0h4.7v2.15h.07c.66-1.24 2.28-2.55 4.7-2.55 5.02 0 5.94 3.3 5.94 7.59V24h-5v-7.5c0-1.79-.03-4.09-2.49-4.09-2.5 0-2.88 1.95-2.88 3.96V24h-5V8z" />
         </svg>
       </a>
-     <a
-  href={`mailto:${data.email}`}
-  aria-label={`Send an email to ${data.email}`}
-  className="flex items-center justify-center gap-2 text-blue-400 hover:underline text-lg mb-6"
->
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    fill="none"
-    viewBox="0 0 24 24"
-    strokeWidth={1.5}
-    stroke="currentColor"
-    className="w-6 h-6"
-  >
-    <path
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25H4.5a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0a2.25 
-         2.25 0 00-2.25-2.25H4.5a2.25 2.25 0 00-2.25 2.25m19.5 
-         0l-9.75 6.75L2.25 6.75"
-    />
-  </svg>
-  {data.email}
-</a>
+    
 
 
 
